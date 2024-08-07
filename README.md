@@ -1,3 +1,4 @@
+**sessionkey自动并发脚本**
 填写你必要的参数，包括:
 url/headrs/countryCode/timestamp/appid/plaintext_str/session_key/iv
 1.txt为电话号码字典，需要自行创建
